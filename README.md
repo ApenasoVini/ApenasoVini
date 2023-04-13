@@ -1,7 +1,7 @@
-<h1 text align="center">👋 Olá , meu nome é Vinícius </h1>
+<h1 text align="center">👋 Olá , meu nome é Vinícius! </h1>
 <br>
 
-## 🌐 Socials:
+## 🌐 Fale comigo!:
 
 <br>
 
