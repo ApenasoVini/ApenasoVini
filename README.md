@@ -1,7 +1,7 @@
 <h1 text align="center">👋 Olá , meu nome é Vinícius! </h1>
 <br>
 
-## 🌐 Fale comigo!:
+## 🌐 Fale comigo:
 
 <br>
 
@@ -10,3 +10,8 @@
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sf.vini/)
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusicmsc@gmail.com)
+
