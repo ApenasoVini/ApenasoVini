@@ -6,3 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sf.vini/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusicmsc@gmail.com)
 
+<br>
+<div align="center">
+  <img alt="Gráfico" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApenasoVini&theme=nord_dark"/>
+</div>
+<br>
