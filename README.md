@@ -15,6 +15,14 @@
 </details>
 
 <details>
+ <summary><h3>⚙ Ferramentas:</h3></summary>
+
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
+![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+</details>
+
+<details>
  <summary><h3>💬 Fale comigo:</h3></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/vin%C3%ADcius-soares-fran%C3%A7a-497862256/)
