@@ -1,5 +1,7 @@
 <h1 text align="center">👋🏿 Olá , meu nome é Vinícius! </h1>
 
+![Banner dark](https://readme-typing-svg.demolab.com/?lines=Programação%20e%20muito%20mais!&font=Noto%20Sans&center=true&width=930&height=45&color=DDDDDD&vCenter=true&pause=1000&size=28#gh-dark-mode-only)
+
 - 🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
 - 💻 Jovem Aprendiz em Programação Back-End<br>
 <hr>
