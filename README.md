@@ -1,9 +1,8 @@
 <h1 text align="center">👋🏿 Olá , meu nome é Vinícius! </h1>
 
-🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
-💻 Jovem Aprendiz em Programação Back-End<br>
+- 🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas<br>
+- 💻 Jovem Aprendiz em Programação Back-End<br>
 <hr>
-
 <details>
  <summary><h3>⚙ Linguagens:</h3></summary>
 
