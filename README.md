@@ -32,7 +32,9 @@
 
 <br>
 <div align="center">
-  <img alt="Gráfico" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApenasoVini&theme=nord_dark"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&layout=compact)](https://github.com/ApenasoVini/github-readme-stats)
+
 </div>
 <br>
 
