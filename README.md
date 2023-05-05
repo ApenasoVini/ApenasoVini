@@ -31,12 +31,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
 </details>
-
-<br>
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&layout=compact)](https://github.com/ApenasoVini/github-readme-stats)
-
-</div>
-<br>
-
