@@ -1,5 +1,4 @@
 <div align="center">
-
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20sou%20Vinícius%20✌🏾;Back-End%20Dev|%20Intelbras;Desenvolvimento%20de%20Sistemas|%20Senai;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=DDDDDD&vCenter=true&pause=1000&size=30">
   <hr width="60%">
 
@@ -22,7 +21,6 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&langs_count=10&custom_title=Linguagens%20Utilizadas&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de ApenasoVini" align="left" />
-</div>
 <details>
  <summary><h3>⚙ Tech Stack:</h3></summary>
  
@@ -42,3 +40,4 @@
 ![Microsoft_word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=316192)
 ![Microsoft_excel](https://img.shields.io/badge/Microsoft_Excel-0D1117.svg?style=for-the-badge&logo=microsoft-excel&logoColor=%2300C4CC)
 </details>
+</div>
