@@ -3,7 +3,7 @@
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20sou%20Vinícius%20✌🏾;Back-End%20Dev|%20Intelbras;Desenvolvimento%20de%20Sistemas|%20Senai;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=DDDDDD&vCenter=true&pause=1000&size=30">
   <hr width="60%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/vin%C3%ADcius-soares-fran%C3%A7a-497862256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sf.vini/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
