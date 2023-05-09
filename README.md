@@ -39,7 +39,6 @@
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-    <br>
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=316192)
 ![Microsoft_word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=316192)
 ![Microsoft_excel](https://img.shields.io/badge/Microsoft_Excel-0D1117.svg?style=for-the-badge&logo=microsoft-excel&logoColor=%2300C4CC)
