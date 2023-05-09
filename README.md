@@ -23,7 +23,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&langs_count=10&custom_title=Linguagens%20Utilizadas&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de ApenasoVini" align="left" />
 <details>
- <summary><h3>⚙ Tech Stack:</h3></summary>
+ <summary><h3>⚙ Conhecimentos:</h3></summary>
  
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
