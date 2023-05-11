@@ -17,7 +17,10 @@
 <p>🎬 Editor de Vídeo</p>
 <p>🎻 Violinista <del>Profissional</del></p>
 </div>
-  
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de ApenasoVini" align="left" />
+
+ 
   <details>
  <summary><h3>⚙ Conhecimentos:</h3></summary>
  
