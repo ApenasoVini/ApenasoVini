@@ -10,10 +10,10 @@
 </div>
 <div align="justify">
 <h2>🙋🏾‍♂️ Sobre mim:</h2> 
-<p>🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas</p>
-<p>💻 Jovem Aprendiz em Programação Back-End</p>
-<p>🔎 Aprendendo SQL, Javascript, HTML, CSS, GIT e mais!</p>
-<p>🔒 Utilizando Linux e Windows</p>
+<p>🧠 Segundo ano do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
+<p>💻 Jovem Aprendiz em <b>Programação Back-End</b></p>
+<p>🔎 Aprendendo <b>SQL, Javascript, HTML, CSS, GIT</b> e mais!</p>
+<p>🔒 Utilizando <b>Linux e Windows</b></p>
 <p>🎬 Editor de Vídeo</p>
 <p>🎻 Violinista <del>Profissional</del></p>
 </div>
