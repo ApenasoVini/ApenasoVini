@@ -8,21 +8,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
 
 </div>
-<div align="justify">
-<h2>🙋🏾‍♂️ Sobre mim:</h2> 
-<p>🧠 Segundo ano do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
-<p>💻 Jovem Aprendiz em <b>Programação Back-End</b></p>
-<p>🔎 Aprendendo <b>SQL, Javascript, HTML, CSS, GIT</b> e mais!</p>
-<p>🔒 Utilizando <b>Linux e Windows</b></p>
-<p>🎬 Editor de Vídeo</p>
-<p>🎻 Violinista <del>Profissional</del></p>
-</div>
-<br>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de ApenasoVini" align="left" />
-
+<h2 align="justify">🙋🏾‍♂️ Sobre mim:</h2> 
+<p align="justify">🧠 Segundo ano do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
+<p align="justify">💻 Jovem Aprendiz em <b>Programação Back-End</b></p>
+<p align="justify">🔎 Aprendendo <b>SQL, Javascript, HTML, CSS, GIT</b> e mais!</p>
+<p align="justify">🔒 Utilizando <b>Linux e Windows</b></p>
+<p align="justify">🎬 Editor de Vídeo</p>
+<p align="justify">🎻 Violinista <del>Profissional</del></p>
  
-  <details>
+   <details>
  <summary><h3>⚙ Conhecimentos:</h3></summary>
  
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,9 +30,10 @@
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-    <br>
+  <br>
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=316192)
 ![Microsoft_word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=316192)
 ![Microsoft_excel](https://img.shields.io/badge/Microsoft_Excel-0D1117.svg?style=for-the-badge&logo=microsoft-excel&logoColor=%2300C4CC)
 </details>
-
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de ApenasoVini" align="left" />
