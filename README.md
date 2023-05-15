@@ -18,7 +18,7 @@
  
    <details>
  <summary><h3>⚙ Conhecimentos:</h3></summary>
- 
+  
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -26,15 +26,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=2F7836)
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=22A3DF)  
-  <br>
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=0F3C6F)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF7C25)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-  <br>
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4) <br>
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=BA3F1D)
 ![Microsoft_word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=1D5CA4)
 ![Microsoft_excel](https://img.shields.io/badge/Microsoft_Excel-0D1117.svg?style=for-the-badge&logo=microsoft-excel&logoColor=1DA42F)
