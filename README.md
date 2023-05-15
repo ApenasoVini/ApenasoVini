@@ -35,3 +35,9 @@
 ![Microsoft_word](https://img.shields.io/badge/Microsoft_Word-0D1117?style=for-the-badge&logo=microsoft-word&logoColor=316192)
 ![Microsoft_excel](https://img.shields.io/badge/Microsoft_Excel-0D1117.svg?style=for-the-badge&logo=microsoft-excel&logoColor=%2300C4CC)
 </details>
+
+
+<h2 align="justify"> 📊 Status:</h2> 
+     <img align="top" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
+
+
