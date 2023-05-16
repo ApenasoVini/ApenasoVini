@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
 
 </div>
-<h2 align="justify">🙋🏾‍♂️ Sobre mim:</h2> 
+<h2 align="justify">🙋🏾‍♂️ Sobre você:</h2> 
 <p align="justify">🧠 Segundo ano do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
 <p align="justify">💻 Jovem Aprendiz em <b>Programação Back-End</b></p>
 <p align="justify">🔎 Aprendendo <b>SQL, Javascript, HTML, CSS, GIT</b> e mais!</p>
