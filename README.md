@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20meu%20nome%20é%20Vinícius!%20✌🏾;Back-End%20Dev|%20Intelbras;Desenvolvimento%20de%20Sistemas|%20Senai;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=30">
+<img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20meu%20nome%20é%20Vinícius!%20✌🏾;Back-End%20Dev|%20Intelbras;Desenvolvimento%20de%20Sistemas|%20Senai;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=ABAEA2&vCenter=true&pause=1000&size=30">
   <hr width="60%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
@@ -35,8 +35,8 @@
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF7C25)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 <br>
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=C2BE47)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=5C84E1)
 <br>
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
