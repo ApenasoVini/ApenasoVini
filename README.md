@@ -9,7 +9,7 @@
 
 </div>
 <h2 align="justify">🙋🏾‍♂️ Sobre mim:</h2> 
-<p align="justify">🧠 Segundo ano do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
+<p align="justify">🧠 <i>Segundo ano</i> do Ensino Médio Técnico em <b>Desenvolvimento de Sistemas</b></p>
 <p align="justify">💻 Jovem Aprendiz em <b>Programação Back-End</b></p>
 <p align="justify">🔎 Aprendendo <b>SQL, Javascript, HTML, CSS, GIT</b> e mais!</p>
 <p align="justify">🔒 Utilizando <b>Linux e Windows</b></p>
