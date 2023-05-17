@@ -1,4 +1,4 @@
-<img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="300px" max-width="600px" width="390px" align="right" alt="ApenasoVini">
+<img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="200px" max-width="600px" width="370px" align="right" alt="ApenasoVini">
 
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20meu%20nome%20é%20Vinícius!%20✌🏾;Bem%20Vindo!%20😉&font=Noto%20Sans&justify=true&width=550&height=45&color=F5F4FF&vCenter=true&pause=1000&size=30">
   <hr width="40%">
