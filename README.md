@@ -1,5 +1,5 @@
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20me%20chamo%20Vinícius!%20✌🏾;Bem%20Vindo!%20😉&font=Noto%20Sans&justify=true&width=550&height=45&color=F5F4FF&vCenter=true&pause=1000&size=30"> 
-  <hr width="43%">
+  <hr width="45%">
 
 <img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="200px" max-width="600px" width="350px" align="right" alt="ApenasoVini"> 
 
