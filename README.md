@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SQLite](https://img.shields.io/badge/sqlite-%23323330?style=for-the-badge&logo=sqlite&logoColor=3F88C5)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330?style=for-the-badge&logo=postgresql&logoColor=828EA4)
-<br>
 ![Git](https://img.shields.io/badge/GIT-%23323330?style=for-the-badge&logo=git&logoColor=E44C30)
 ![NodeJS](https://img.shields.io/badge/nodejs-%23323330?style=for-the-badge&logo=node.js&logoColor=00FF00)
 ![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react&logoColor=22A3DF)
