@@ -15,11 +15,11 @@
 ![Git](https://img.shields.io/badge/GIT-%23323330?style=for-the-badge&logo=git&logoColor=E44C30)
 ![NodeJS](https://img.shields.io/badge/nodejs-%23323330?style=for-the-badge&logo=node.js&logoColor=00FF00)
 ![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react&logoColor=22A3DF)
-![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=FF7C25)
+![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=3C86BF)
 ![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 <br>
 ![Linux](https://img.shields.io/badge/Linux-%23323330?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=5C84E1)
+![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=1E94EE)
 <br>
 ![Canva](https://img.shields.io/badge/Canva-%23323330.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
