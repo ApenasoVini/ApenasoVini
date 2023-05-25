@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/GIT-%23323330?style=for-the-badge&logo=git&logoColor=E44C30)
 ![NodeJS](https://img.shields.io/badge/nodejs-%23323330?style=for-the-badge&logo=node.js&logoColor=00FF00)
 ![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react&logoColor=22A3DF)
-![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=3C86BF)
+![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=FC9C2F)
 ![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 <br>
 ![Linux](https://img.shields.io/badge/Linux-%23323330?style=for-the-badge&logo=linux&logoColor=FFFFFF)
