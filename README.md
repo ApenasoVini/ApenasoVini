@@ -10,11 +10,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+ <br>
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=1E86CB)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=8EA7F5)
    <br>
-![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=2F7836)
+![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=22A3DF) 
+   <br>
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF7C25)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
    <br>
