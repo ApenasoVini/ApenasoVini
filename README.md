@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4339B3)
+![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=1E86CB)
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
    <br>
 ![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=2F7836)
