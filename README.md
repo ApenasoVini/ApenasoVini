@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=22A3DF) 
    <br>
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF7C25)
+![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FC8231)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
    <br>
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
