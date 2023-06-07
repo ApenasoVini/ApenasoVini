@@ -1,9 +1,13 @@
 <div align="center">
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20meu%20nome%20é%20Vinícius!%20✌🏾;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=30">
   <hr width="45%">
-
- <div align="justify"> 
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sf.vini/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
+</div>
+
 <h3>🌐 Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,15 +28,6 @@
    <br>
 ![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-
+  
  <h3> 📊 Status:</h3> 
      <img align="justify" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
-  
-  <h3>🙋🏾‍♂️ Fale comigo: </h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sf.vini/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
-   
-</div>
