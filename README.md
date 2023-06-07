@@ -7,21 +7,22 @@
   
 <h3>🌐 Tech Stack</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQLite](https://img.shields.io/badge/sqlite-%23323330?style=for-the-badge&logo=sqlite&logoColor=4339B3)
-![Git](https://img.shields.io/badge/GIT-%23323330?style=for-the-badge&logo=git&logoColor=E44C30)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4339B3)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
    <br>
-![NodeJS](https://img.shields.io/badge/nodejs-%23323330?style=for-the-badge&logo=node.js&logoColor=2F7836)
-![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react&logoColor=22A3DF) 
-![Postman](https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=postman&logoColor=FF7C25)
-![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=2F7836)
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=22A3DF) 
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF7C25)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
    <br>
-![Linux](https://img.shields.io/badge/Linux-%23323330?style=for-the-badge&logo=linux&logoColor=C2BE47)
-![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=5C84E1)
-![Canva](https://img.shields.io/badge/Canva-%23323330.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
-![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=002184)
+   <br>
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 
  <h3> 📊 Status:</h3> 
      <img align="justify" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
