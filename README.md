@@ -19,7 +19,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
    <br>
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=002184)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=40B3FF)
    <br>
 ![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
