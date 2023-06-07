@@ -25,16 +25,14 @@
   
  <div align="right">
  <h3> 📊 Status:</h3> 
-     <img align="top" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
+     <img align="right" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
  </div> 
-  
-  <h3 align="justify">
-  🙋🏾‍♂️ Fale comigo:
-  </h3>
+  <br> 
+<div align="center">
+<h3>🙋🏾‍♂️ Fale comigo: </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sf.vini/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
-
-<img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="200px" max-width="600px" width="300px" align="right" alt="ApenasoVini"> 
+</div>
