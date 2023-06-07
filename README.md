@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Olá,%20meu%20nome%20é%20Vinícius!%20✌🏾;Back-End%20Dev|%20Intelbras;Desenvolvimento%20de%20Sistemas|%20Senai;Bem%20Vindo!%20😉&font=Noto%20Sans&center=true&width=600&height=45&color=F1E4DB&vCenter=true&pause=1000&size=30">
   <hr width="60%">
-<img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="300px" max-width="600px" width="400px" align="right" alt="ApenasoVini">
+<img src="https://github.com/ApenasoVini/ApenasoVini/blob/main/_-fotor-bg-remover-2023051783117.png" min-width="300px" max-width="600px" width="300px" align="right" alt="ApenasoVini">
 
  <div align="justify"> 
   
