@@ -29,5 +29,9 @@
 ![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
   
- <h3> 📊 Status:</h3> 
+ <h3> 📊 Status </h3> 
      <img align="justify" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
+
+<h3> 🏆 Troféus GitHub </h3>
+
+![](https://github-profile-trophy.vercel.app/?username=ApenasoVini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
