@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ApenasoVini)
 </div>
 
-<h3>🌐 Tech Stack</h3>
+## 🌐 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=#0000FF)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,5 +20,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=40B3FF)
   
- <h3> 📊 Status </h3> 
-     <img align="justify" src="https://github-readme-stats.vercel.app/api?username=ApenasoVini&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=bf91f3&text_color=FFFFFF&bg_color=0D1117" alt="ApenasoVini's GitHub Stats" />
+## 📊 Status
+
+![](https://github-readme-stats.vercel.app/api?username=ApenasoVini&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=450px)
