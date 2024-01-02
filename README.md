@@ -10,6 +10,7 @@
 
 ## 🌐 Tech Stack
 
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
