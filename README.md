@@ -11,17 +11,16 @@
 ## 🌐 Tech Stack
 
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=1572B6)
-![React Native](https://img.shields.io/badge/react-native-0D1117?style=for-the-badge&logo=react-native&logoColor=1572B6)
-![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=nodejs&logoColor=008000)
+![React Native](https://img.shields.io/badge/react%20native-0D1117?style=for-the-badge&logo=react&logoColor=0093ff)
+![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![NestJS](https://img.shields.io/badge/nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=b81414)
    <br>
+![Typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=377CC8)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
    <br>
-   
-[![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FC8231)
-](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=FC8231)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=40B3FF)
   
