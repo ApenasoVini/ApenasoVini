@@ -21,7 +21,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#38BDF8)
    <br>
 ![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=#F05539)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=#E75827)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=087CD7)
   
 ## 📊 Status
