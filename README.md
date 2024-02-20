@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#38BDF8)
    <br>
 ![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=FC8231)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
