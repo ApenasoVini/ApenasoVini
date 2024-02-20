@@ -9,20 +9,20 @@
 
 ## 🌐 Tech Stack
 
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=1572B6)
-![React Native](https://img.shields.io/badge/react%20native-0D1117?style=for-the-badge&logo=react&logoColor=0093ff)
-![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B)
-![NestJS](https://img.shields.io/badge/nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=b81414)
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=#50D6FF)
+![React Native](https://img.shields.io/badge/react%20native-0D1117?style=for-the-badge&logo=react&logoColor=#30C9E3)
+![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=#93C745)
+![NestJS](https://img.shields.io/badge/nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=EB2F4B)
    <br>
-![Typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=377CC8)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=#377CC8)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=#F7E025)
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=#E65736)
+![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=3d9dd7)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#38BDF8)
    <br>
-![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=FC8231)
+![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=#F05539)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=40B3FF)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=087CD7)
   
 ## 📊 Status
 
