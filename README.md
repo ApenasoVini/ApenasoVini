@@ -9,21 +9,32 @@
 
 ## 🌐 Tech Stack
 
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=#50D6FF)
-![React Native](https://img.shields.io/badge/react%20native-0D1117?style=for-the-badge&logo=react&logoColor=#30C9E3)
-![NodeJS](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=#93C745)
-![NestJS](https://img.shields.io/badge/nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=EB2F4B)
-   <br>
-![Typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=#377CC8)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=#F7E025)
-![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=#E65736)
-![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=3d9dd7)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#38BDF8)
-   <br>
-![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=#F05539)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=#E75827)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=087CD7)
-  
+<div align="left">
+  <img src="https://cdn.simpleicons.org/React" height="35" alt="react logo"  />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="35" alt="react native logo"  />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="35" alt="nodejs logo"  />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs" height="35" alt="nestjs logo"  />
+     <br>
+  <img src="https://cdn.simpleicons.org/typescript" height="35" alt="typescript logo"  />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="35" alt="javascript logo"  />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="35" alt="html logo"  />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="35" alt="css logo"  />
+      <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="35" alt="css logo"  />
+     <br>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="35" alt="git logo"  />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" height="35" alt="ubuntu logo"  />
+      <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="35" alt="windows logo"  />
+</div>
+
 ## 📊 Status
 
 ![](https://github-readme-stats.vercel.app/api?username=ApenasoVini&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=450px)
