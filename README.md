@@ -11,29 +11,29 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/React" height="50" alt="react logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="50" alt="react native logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.simpleicons.org/nodedotjs" height="50" alt="nodejs logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.simpleicons.org/nestjs" height="50" alt="nestjs logo"  />
     <br>
     <br>
   <img src="https://cdn.simpleicons.org/typescript" height="50" alt="typescript logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="javascript logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="html logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50" alt="css logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="50" alt="tailwind css logo"  />
     <br>
     <br>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="git logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" height="50" alt="ubuntu logo"  />
-    <img width="12" />
+    <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="50" alt="windows logo"  />
 </div>
 
