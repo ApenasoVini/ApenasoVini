@@ -36,8 +36,3 @@
     <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="50" alt="windows logo"  />
 </div>
-
-## 📊 Status
-
-![](https://github-readme-stats.vercel.app/api?username=ApenasoVini&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=450px)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
