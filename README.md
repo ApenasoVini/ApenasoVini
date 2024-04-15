@@ -35,3 +35,6 @@
     <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="50" alt="windows logo"  />
 </div>
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
