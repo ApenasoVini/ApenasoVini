@@ -27,7 +27,6 @@
     <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50" alt="css logo"  />
     <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="50" alt="tailwind css logo"  />
     <br>
     <br>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="git logo"  />
