@@ -30,10 +30,6 @@
     <br>
     <br>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="git logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" height="50" alt="ubuntu logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="50" alt="windows logo"  />
 </div>
 <br>
 
