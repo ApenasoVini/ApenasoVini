@@ -7,29 +7,30 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 </div>
 
-## 🌐 Tech Stack
+## ⚙ Tech Stack
+<div align="center">
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/React" height="50" alt="react logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="50" alt="react native logo"  />
-    <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="50" alt="nodejs logo"  />
-    <img width="20" />
-  <img src="https://cdn.simpleicons.org/nestjs" height="50" alt="nestjs logo"  />
-    <br>
-    <br>
-  <img src="https://cdn.simpleicons.org/typescript" height="50" alt="typescript logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="javascript logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="html logo"  />
-    <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50" alt="css logo"  />
-    <img width="20" />
-    <br>
-    <br>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="git logo"  />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 </div>
 <br>
 
