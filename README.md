@@ -9,9 +9,9 @@
 
 ## ⚙ Tech Stack
 
-**Frontend:** `React.js` `Vue.js` `Tailwind` `Sass` 
+**Frontend:** `React` `NuxtJS` `TailwindCSS` `SASS` 
 
-**Backend:** `TypeScript` `Express` `Node.js` `NestJS` 
+**Backend:** `TypeScript` `Express` `NodeJS` `NestJS` 
 
 **Banco de Dados e ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
