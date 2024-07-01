@@ -9,7 +9,7 @@
 
 ## ⚙ Tech Stack
 
-**Frontend:** `React` `NuxtJS` `TailwindCSS` `SCSS` 
+**Frontend:** `React` `NuxtJS` `AngularJS` `TailwindCSS` `SCSS` 
 
 **Backend:** `TypeScript` `Express` `NodeJS` `NestJS` 
 
