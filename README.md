@@ -3,21 +3,18 @@
   <hr width="50%">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/apenasovini/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sf.vini/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 </div>
 
 ## ⚙ Tech Stack
 
-**Frontend:** `React` `NuxtJS` `AngularJS` `TailwindCSS` `SCSS` 
+**Frontend:** `React` `TailwindCSS` `SCSS` 
 
-**Backend:** `TypeScript` `Express` `NodeJS` `NestJS` 
+**Backend:** `TypeScript` `Express` `NodeJS`
 
 **Banco de Dados e ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
 **Versionamento:** `Git` `GitHub` `GitLab`
-
-**Outros:** `Swagger` `Postman`
 
 <br>
 
