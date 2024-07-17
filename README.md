@@ -8,14 +8,10 @@
 
 ## ⚙ Tech Stack
 
-**Frontend:** `React` `TailwindCSS` `SCSS` 
+**Frontend:** `React` `VueJS` `TailwindCSS` `SCSS` 
 
 **Backend:** `TypeScript` `Express` `NodeJS`
 
 **Banco de Dados e ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
 **Versionamento:** `Git` `GitHub` `GitLab`
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
