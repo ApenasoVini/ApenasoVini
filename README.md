@@ -10,7 +10,7 @@
 
 **Frontend:** `React` `VueJS` `TailwindCSS` `SCSS` 
 
-**Backend:** `TypeScript` `Express` `NodeJS`
+**Backend:** `TypeScript` `Express` `NodeJS` `NestJS`
 
 **Banco de Dados e ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
