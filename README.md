@@ -15,3 +15,5 @@
 **Banco de Dados e ORM:** `PostgreSQL` `MySQL` `PrismaORM`
  
 **Versionamento:** `Git` `GitHub` `GitLab`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasoVini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
