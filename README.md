@@ -12,7 +12,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,sass,tailwindcss" />
   </a>
-<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,typescript,django,nodejs,postgres,mysql,git" />
   </a>
