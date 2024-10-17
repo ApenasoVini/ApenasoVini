@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:viniciusicmsc@gmail.com)
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,sass,tailwindcss" />
